@@ -1,3 +1,15 @@
+## 0.1.1 (2025-03-12)
+
+
+### 🩹 Fixes
+
+- type error with preferences ([29ced2316](https://github.com/playa3ull/playa3ull-ecosystem/commit/29ced2316))
+
+
+### ❤️  Thank You
+
+- Jourdan Haines @jourdanhaines
+
 ## 0.1.0 (2025-03-12)
 
 This was a version bump only for launcher-backend to align it with other projects, there were no code changes.
