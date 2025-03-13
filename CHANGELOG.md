@@ -1,3 +1,15 @@
+## 0.2.2 (2025-03-13)
+
+
+### 🚀 Features
+
+- add necessary dependencies to launcher package ([b1bb19838](https://github.com/playa3ull/playa3ull-ecosystem/commit/b1bb19838))
+
+
+### ❤️  Thank You
+
+- Jourdan Haines @jourdanhaines
+
 ## 0.2.1 (2025-03-13)
 
 This was a version bump only for launcher-backend to align it with other projects, there were no code changes.
