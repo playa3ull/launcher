@@ -1,3 +1,15 @@
+## 0.3.1 (2025-03-16)
+
+
+### 🚀 Features
+
+- initialize dotenv in backend and update env file location ([ffa02ff77](https://github.com/playa3ull/playa3ull-ecosystem/commit/ffa02ff77))
+
+
+### ❤️  Thank You
+
+- Jourdan Haines @jourdanhaines
+
 ## 0.3.0 (2025-03-16)
 
 This was a version bump only for launcher-backend to align it with other projects, there were no code changes.
