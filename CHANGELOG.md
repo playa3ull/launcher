@@ -1,3 +1,7 @@
+## 0.3.0 (2025-03-16)
+
+This was a version bump only for launcher-backend to align it with other projects, there were no code changes.
+
 ## 0.2.5 (2025-03-13)
 
 This was a version bump only for launcher-backend to align it with other projects, there were no code changes.
