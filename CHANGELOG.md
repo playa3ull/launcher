@@ -1,176 +1,26 @@
+## 0.4.2 (2025-03-18)
+
+
+### 🚀 Features
+
+- update changelog ([6b70f0416](https://github.com/playa3ull/playa3ull-ecosystem/commit/6b70f0416))
+
+
+### ❤️  Thank You
+
+- Jourdan Haines @jourdanhaines
+
 ## 0.4.1 (2025-03-17)
 
-This was a version bump only for launcher-backend to align it with other projects, there were no code changes.
+Initial public release of the PLAYA3ULL GAMES Master Node Software.
 
-## 0.4.0 (2025-03-17)
+This version includes the following features:
 
-This was a version bump only for launcher-backend to align it with other projects, there were no code changes.
+- Authentication and connection to the PLAYA3ULL GAMES Master Node Network
+- Monitor uptime and performance of your Master Node
+- View and monitor network activity
 
-## 0.3.2 (2025-03-17)
-
-This was a version bump only for launcher-backend to align it with other projects, there were no code changes.
-
-## 0.3.1 (2025-03-16)
-
-
-### 🚀 Features
-
-- initialize dotenv in backend and update env file location ([ffa02ff77](https://github.com/playa3ull/playa3ull-ecosystem/commit/ffa02ff77))
-
-
-### ❤️  Thank You
-
-- Jourdan Haines @jourdanhaines
-
-## 0.3.0 (2025-03-16)
-
-This was a version bump only for launcher-backend to align it with other projects, there were no code changes.
-
-## 0.2.5 (2025-03-13)
-
-This was a version bump only for launcher-backend to align it with other projects, there were no code changes.
-
-## 0.2.4 (2025-03-13)
-
-This was a version bump only for launcher-backend to align it with other projects, there were no code changes.
-
-## 0.2.3 (2025-03-13)
-
-
-### 🚀 Features
-
-- remove public env due to github env injection ([efe10b5ce](https://github.com/playa3ull/playa3ull-ecosystem/commit/efe10b5ce))
-
-
-### ❤️  Thank You
-
-- Jourdan Haines @jourdanhaines
-
-## 0.2.2 (2025-03-13)
-
-
-### 🚀 Features
-
-- add necessary dependencies to launcher package ([b1bb19838](https://github.com/playa3ull/playa3ull-ecosystem/commit/b1bb19838))
-
-
-### ❤️  Thank You
-
-- Jourdan Haines @jourdanhaines
-
-## 0.2.1 (2025-03-13)
-
-This was a version bump only for launcher-backend to align it with other projects, there were no code changes.
-
-## 0.2.0 (2025-03-13)
-
-This was a version bump only for launcher-backend to align it with other projects, there were no code changes.
-
-## 0.1.2-2 (2025-03-13)
-
-This was a version bump only for launcher-backend to align it with other projects, there were no code changes.
-
-## 0.1.2-1 (2025-03-13)
-
-This was a version bump only for launcher-backend to align it with other projects, there were no code changes.
-
-## 0.1.2-0 (2025-03-13)
-
-This was a version bump only for launcher-backend to align it with other projects, there were no code changes.
-
-## 0.1.1 (2025-03-12)
-
-
-### 🩹 Fixes
-
-- type error with preferences ([29ced2316](https://github.com/playa3ull/playa3ull-ecosystem/commit/29ced2316))
-
-
-### ❤️  Thank You
-
-- Jourdan Haines @jourdanhaines
-
-## 0.1.0 (2025-03-12)
-
-This was a version bump only for launcher-backend to align it with other projects, there were no code changes.
-
-## 0.1.0-testnet.4 (2025-02-26)
-
-
-### 🚀 Features
-
-- add implicit dependency for frontend to the backend ([afa2e0b5f](https://github.com/playa3ull/playa3ull-ecosystem/commit/afa2e0b5f))
-
-
-### 🩹 Fixes
-
-- move launcher shared types to types package, fixing circ dependency ([3d961f188](https://github.com/playa3ull/playa3ull-ecosystem/commit/3d961f188))
-
-
-### ❤️  Thank You
-
-- Jourdan Haines @jourdanhaines
-
-## 0.1.0-testnet.3 (2025-02-25)
-
-This was a version bump only for launcher-backend to align it with other projects, there were no code changes.
-
-## 0.1.0-testnet.2 (2025-02-20)
-
-### 🚀 Features
-
-- add support for preferences and maintain screen size between
-  sessions ([6eefabf67](https://github.com/playa3ull/playa3ull-ecosystem/commit/6eefabf67))
-
-- prevent opening for multiple instances of the
-  app ([9db669763](https://github.com/playa3ull/playa3ull-ecosystem/commit/9db669763))
-
-- useful logging package inspired by winston with
-  transports ([40646e48b](https://github.com/playa3ull/playa3ull-ecosystem/commit/40646e48b))
-
-- forward logs from frontend application to backend via
-  ipc ([1f782679a](https://github.com/playa3ull/playa3ull-ecosystem/commit/1f782679a))
-
-- better logging format for files ([542f7049c](https://github.com/playa3ull/playa3ull-ecosystem/commit/542f7049c))
-
-- disable debug logs if key is not present at
-  all ([9ffc7aeac](https://github.com/playa3ull/playa3ull-ecosystem/commit/9ffc7aeac))
-
-- add node-cli into workflow ([eb4144402](https://github.com/playa3ull/playa3ull-ecosystem/commit/eb4144402))
-
-- change launcher to use launcher repo ([ad59dabef](https://github.com/playa3ull/playa3ull-ecosystem/commit/ad59dabef))
-
-### 🩹 Fixes
-
-- minimum size for window was blocking setting a new minimum
-  size ([fbded7efb](https://github.com/playa3ull/playa3ull-ecosystem/commit/fbded7efb))
-
-- auto refresh token on expiry ([5cfdb5a67](https://github.com/playa3ull/playa3ull-ecosystem/commit/5cfdb5a67))
-
-- package.json ([0bb831258](https://github.com/playa3ull/playa3ull-ecosystem/commit/0bb831258))
-
-- add release notes chagenlog to electron
-  configuration ([68cf97970](https://github.com/playa3ull/playa3ull-ecosystem/commit/68cf97970))
-
-- add CHANGELOG.md to electron extra
-  resources ([715ac01b4](https://github.com/playa3ull/playa3ull-ecosystem/commit/715ac01b4))
-
-- revert back to original release notes ([b9c9ead7d](https://github.com/playa3ull/playa3ull-ecosystem/commit/b9c9ead7d))
-
-- session auto refreshes and does not impede user
-  view ([b939b0127](https://github.com/playa3ull/playa3ull-ecosystem/commit/b939b0127))
-
-### ❤️ Thank You
-
-- Jourdan Haines @jourdanhaines
-- Sam Thompson-Kennedy
-
-## 0.1.0-testnet.1 (2025-02-06)
-
-### 🚀 Features
-
-- Initial QA Release of Launcher
-- Master Node Functionality
+This initial release only requires you to run a single Master Node for your account.
 
 ### ❤️ Thank You
 
