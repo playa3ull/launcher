@@ -1,20 +1,29 @@
-## 0.4.3 (2025-03-18)
-
-This was a version bump only for launcher-backend to align it with other projects, there were no code changes.
-
-## 0.4.2 (2025-03-18)
+## 0.5.0 (2025-03-27)
 
 
 ### 🚀 Features
 
-- update changelog ([6b70f0416](https://github.com/playa3ull/playa3ull-ecosystem/commit/6b70f0416))
+- minimize to system tray on close or on minimiize ([e52f3ea55](https://github.com/playa3ull/playa3ull-ecosystem/commit/e52f3ea55))
+
+- run on startup by default and toggle in preferences ([bce81d1c6](https://github.com/playa3ull/playa3ull-ecosystem/commit/bce81d1c6))
+
+- only minimize to tray if preferences enabled ([72a46d8e7](https://github.com/playa3ull/playa3ull-ecosystem/commit/72a46d8e7))
+
+- new options menu for saving/loading user preferences ([a04b0ad24](https://github.com/playa3ull/playa3ull-ecosystem/commit/a04b0ad24))
+
+
+### 🩹 Fixes
+
+- don't minimize to tray on minimize only quit ([fb0a70b3c](https://github.com/playa3ull/playa3ull-ecosystem/commit/fb0a70b3c))
+
+- deep merge default keys with current prefs in the event there are missing preferences ([8852ec2db](https://github.com/playa3ull/playa3ull-ecosystem/commit/8852ec2db))
 
 
 ### ❤️  Thank You
 
 - Jourdan Haines @jourdanhaines
 
-## 0.4.1 (2025-03-17)
+## 0.4.3 (2025-03-18)
 
 Initial public release of the PLAYA3ULL GAMES Master Node Software.
 
