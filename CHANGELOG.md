@@ -1,19 +1,9 @@
 ## 0.5.1 (2025-03-27)
 
-
-### 🚀 Features
-
-- changelog ([21e3a03ff](https://github.com/playa3ull/playa3ull-ecosystem/commit/21e3a03ff))
-
-
 ### 🩹 Fixes
 
-- startup error ([7888bacdc](https://github.com/playa3ull/playa3ull-ecosystem/commit/7888bacdc))
-
-
-### ❤️  Thank You
-
-- Jourdan Haines @jourdanhaines
+- Post-build startup error preventing the application from
+  launching ([7888bacdc](https://github.com/playa3ull/playa3ull-ecosystem/commit/7888bacdc))
 
 ## 0.5.0 (2025-03-27)
 
