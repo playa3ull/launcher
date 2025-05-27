@@ -1,3 +1,9 @@
+## 0.5.4 (2025-05-27)
+
+### Fixes
+
+- Fixed an issue that would prevent the application from recognizing that it was disconnected from the network.
+
 ## 0.5.3 (2025-05-27)
 
 ### Fixes
