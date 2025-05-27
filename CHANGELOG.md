@@ -1,3 +1,10 @@
+## 0.5.3 (2025-05-27)
+
+### Fixes
+
+- Fixed an issue that prevented authentication via wallet signature.
+- Fixed an issue that caused inconsistent logout behavior.
+
 ## 0.5.2 (2025-05-27)
 
 ### Features
