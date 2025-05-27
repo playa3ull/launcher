@@ -16,7 +16,7 @@
     - Developer note: This was a separate issue from the first one mentioned in this list, where in some cases the
       application would disconnect from the network but not realize it had done so, and would be left in a state where
       it thought it was still connected but was not.
-- Fixed and issue that would cause the application to not be able to reconnect to an existing session if the Master Node
+- Fixed an issue that would cause the application to not be able to reconnect to an existing session if the Master Node
   network was interrupted briefly.
 
 ## 0.5.1 (2025-03-27)
