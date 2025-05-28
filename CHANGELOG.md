@@ -1,3 +1,17 @@
+## 0.5.5 (2025-05-28)
+
+### Improvements
+
+- Added a toast notification to inform the user of a network error before the application closes itself.
+
+### Fixes
+
+- Fixed an issue that would prevent an already running instance of the application from being shown if the user
+  attempted to start a new instance of the application while the first instance was already running.
+    - Developer note: This would occur if the user had the "minimize to system tray" option enabled, and the user
+      attempted to launch the application from the executable. Instead of bringing the original instance to the
+      foreground, it would appear to do nothing at all.
+
 ## 0.5.4 (2025-05-27)
 
 ### Fixes
