@@ -1,3 +1,9 @@
+## 0.5.7 (2025-06-14)
+
+### Improvements
+
+- Improved socket connection logic.
+
 ## 0.5.6 (2025-06-10)
 
 ### Features
@@ -55,14 +61,16 @@
 
 ## 0.5.1 (2025-03-27)
 
-### 🩹 Fixes
+### Fixes
+
 
 - Post-build startup error preventing the application from
   launching ([7888bacdc](https://github.com/playa3ull/playa3ull-ecosystem/commit/7888bacdc))
 
 ## 0.5.0 (2025-03-27)
 
-### 🚀 Features
+### Features
+
 
 - Minimize to system tray on close or on
   minimize ([e52f3ea55](https://github.com/playa3ull/playa3ull-ecosystem/commit/e52f3ea55))
