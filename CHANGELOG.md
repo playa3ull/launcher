@@ -1,3 +1,9 @@
+## 0.5.8 (2025-06-14)
+
+### Improvements
+
+- Added support for improved handshake mechanism when connecting to the network.
+
 ## 0.5.7 (2025-06-14)
 
 ### Improvements
