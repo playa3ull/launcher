@@ -1,3 +1,9 @@
+## 0.5.9 (2025-06-15)
+
+### Fixes
+
+- Fixed an issue that prevented the application from loading on the previous version.
+
 ## 0.5.8 (2025-06-14)
 
 ### Improvements
