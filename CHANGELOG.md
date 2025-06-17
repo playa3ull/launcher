@@ -1,3 +1,14 @@
+## 0.5.10 (2025-06-17)
+
+### Improvements
+
+- Added a shortcut button to the account menu to open the log folder.
+
+### Fixes
+
+- Fixed an issue that would cause the application to crash when reconnecting to the Master Node Network after a
+  disconnection.
+
 ## 0.5.9 (2025-06-15)
 
 ### Fixes
