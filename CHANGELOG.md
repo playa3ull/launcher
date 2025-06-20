@@ -1,3 +1,23 @@
+## 0.5.11 (2025-06-20)
+
+### Improvements
+
+- Changed the default uptime fetch period to 1 minute.
+- Added a notification the user when closing the application that it is still running in the system tray. Can be disabled
+  in the preferences menu.
+- Added memory usage output to the application to help with debugging and performance monitoring.
+- Overhauled the reconnect logic to be every 5 minutes with a maximum of 5 attempts, instead of every 15 seconds with a maximum of 50 attempts. In the future this will be changed to an exponential backoff strategy.
+- Improved the logging of network request errors.
+- Added a reconnect duration label when the application is in a reconnecting state.
+
+### Fixes
+
+- Prevented the application from fetching uptime whilst it was no longer connected to the network. This reduces strain
+  on the network and prevents unnecessary requests from being made when the application is not connected.
+- Fixed an issue that would cause conflicting reconnects, which could lead to multiple open connections and subsequently
+  multiple subscriptions to the same events.
+- Fixed an issue that would persist network subscriptions, which could lead the application to not properly handle reconnections.
+
 ## 0.5.10 (2025-06-17)
 
 ### Improvements
