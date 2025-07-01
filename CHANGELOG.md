@@ -1,3 +1,14 @@
+## 0.5.12 (2025-07-01)
+
+### Improvements
+
+- Added a connection status indicator to the uptime card to show whether the application is connected to the Master Node Network or not.
+
+### Fixes
+
+- Fixed and issue that could cause the application to stay open in the background when closing, and when the minize to system tray option was disabled.
+- Fixed an issue that could cause the application to not connect to the network after launching the application for the first time with existing session tokens.
+
 ## 0.5.11 (2025-06-20)
 
 ### Improvements
