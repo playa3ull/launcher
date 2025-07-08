@@ -1,3 +1,9 @@
+## 0.5.13 (2025-07-08)
+
+### Fixes
+
+- Fixed an issue that would cause the application to not connect if the user account did not have a reward balance.
+
 ## 0.5.12 (2025-07-01)
 
 ### Improvements
